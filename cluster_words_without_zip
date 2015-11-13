@@ -1,0 +1,52 @@
+['acorn squash', 'anchovy', 'appetizer', 'appetite', 'barbecue', 'bell pepper', 'cantaloupe', 'carbohydrate', 'carrot', 'cashew', 'casserole', 'cater', 'celery', 'cereal', 'cheddar', 'cheesecake', 'chef', 'cherry', 'chicken', 'chili', 'chives', 'chocolate', 'chopsticks', 'chutney', 'cilantro', 'cinnamon', 'citrus', 'cobbler', 'corn', 'cornmeal', 'crackers', 'cranberry', 'cream', 'crepe', 'crisp', 'crust', 'cucumber', 'cuisine', 'cupboard', 'cupcake', 'curds', 'curry', 'custard', 'daikon', 'daily bread', 'dairy', 'dessert', 'diet', 'diner', 'dish', 'dough', 'dragonfruit', 'dried', 'drink', 'eat', 'egg', 'endive', 'entree', 'fried', 'fritter', 'frosting', 'fruit', 'fry', 'garlic', 'gastronomy', 'gingerbread', 'granola', 'gyro', 'jalapeno', 'jam', 'jelly', 'jellybeans', 'jicama', 'jimmies', 'julienne', 'kale', 'kebab', 'kettle', 'kettle corn', 'kidney beans', 'kitchen', 'kiwi', 'kohlrabi', 'kumquat', 'ladle', 'lamb', 'lard', 'lasagna', 'lemon', 'lentils', 'licorice', 'lime', 'liver', 'macaroni', 'margarine', 'marionberry', 'marmalade', 'meat', 'meatball', 'mints', 'mochi', 'mozzarella', 'munch', 'mushroom', 'mussels', 'mustard', 'nectarine', 'nibble', 'noodles', 'nosh', 'nut', 'nutmeg', 'nutrient', 'nutrition', 'nutritious', 'oats', 'oil', 'okra', 'oleo', 'omelet', 'onion', 'orange', 'order', 'oregano', 'oyster']
+
+['alfalfa sprouts', 'almond', 'anise', 'apple', 'bamboo shoots', 'batter', 'butter', 'chard', 'chick peas', 'cloves', 'crunch', 'currants', 'digestive system', 'edible', 'eggplant', 'maize', 'mutton', 'pan', 'papaya', 'parsnip', 'pastry', 'patty', 'peach', 'peanut butter', 'pea', 'pear', 'pilaf', 'pitcher', 'pizza', 'plate', 'poached', 'popsicle', 'popcorn', 'popovers', 'pork chops', 'pot', 'preserves', 'prune', 'pudding', 'pumpernickel', 'pumpkin', 'quiche', 'quinoa', 'radish', 'raisin', 'rations', 'ravioli', 'recipe', 'sauerkraut', 'sausage', 'savory', 'scrambled', 'seaweed', 'seeds', 'shallots', 'sherbet', 'sorbet', 'sorrel', 'soup', 'soy', 'spareribs', 'spatula', 'spices', 'spicy', 'spinach', 'spoon', 'squash', 'squid', 'stew', 'stomach', 'strawberry', 'strudel', 'succotash', 'sugar', 'sushi', 'sweet', 'sweet potato', 'Swiss chard', 'syrup', 'taco', 'take out', 'tapioca', 'taro', 'tea', 'teapot', 'torte', 'tuna', 'turkey', 'turnip', 'utensils', 'vanilla', 'venison', 'vinegar', 'vitamin', 'wafer', 'waffle', 'wasabi', 'yeast', 'yogurt', 'zucchini']
+
+['apricot', 'artichoke', 'ate', 'bagel', 'bake', 'banana', 'basil', 'candy', 'cassava', 'cornflakes', 'Danish pastry', 'gelatin', 'legumes', 'lettuce', 'minerals', 'muffin', 'nectar', 'parsley', 'plum', 'raspberry', 'sour', 'sundae', 'walnut']
+
+['asparagus', 'aspic', 'avocado', 'bacon', 'baked Alaska', 'barley', 'beancurd', 'buns', 'candy apple', 'caramel apple', 'Gouda cheese', 'main course', 'maple syrup', 'nourishment', 'omnivore', 'peanut', 'pork', 'refreshments', 'soybeans', 'spork', 'submarine sandwich', 'sunflower', 'tuber', 'turmeric', 'unleavened', 'vegetable']
+
+['beans', 'beef', 'biscuit', 'black beans', 'black eyed peas', 'bland', 'Brussels sprouts', 'burrito', 'cauliflower', 'chow', 'napkin', 'oven', 'protein', 'sprouts', 'tarragon']
+
+['beet', 'berry', 'bitter', 'blackberry', 'black tea', 'blood orange', 'buckwheat', 'calorie', 'cayenne pepper', 'crab', 'elderberry', 'lima beans', 'pasta', 'potato', 'sorghum', 'sustenance']
+
+['blueberry', 'boysenberry', 'bran', 'breakfast', 'broccoli', 'brownie', 'brunch', 'cake', 'cheese', 'Edam cheese', 'fava bans', 'ginger', 'knife', 'pretzel', 'sesame seed', 'sub sandwich']
+
+['boil', 'bowl', 'bread', 'breadfruit', 'brisket', 'broil', 'brown rice', 'butter bean', 'chips', 'dandelion greens', 'veal']
+
+['capers', 'caramel', 'caviar', 'chew', 'citron', 'clam', 'cookbook', 'cottage cheese', 'dates', 'digest', 'dill', 'dine', 'dinner', 'dip', 'dressing', 'hot dog', 'hot sauce', 'mug', 'pancake', 'pate', 'platter', 'pop', 'provisions', 'roast', 'roll', 'salami', 'spaghetti', 'spuds', 'steak', 'straw', 'stringy', 'supper', 'tangerine', 'tart']
+
+['coconut', 'cod', 'coffee', 'coleslaw', 'collard greens', 'comestibles', 'cook', 'cookie', 'cream cheese', 'pineapple', 'pomegranate', 'sprinkles', 'suet']
+
+['dry', 'durian', 'fast', 'fed', 'French fries', 'glasses', 'gravy', 'hot', 'ice cream', 'ice cream cone', 'Jordan almonds', 'molasses', 'mole sauce', 'rolling pin', 'string bean', 'summer squash']
+
+['fat', 'feast', 'feed', 'fennel', 'flan', 'flour', 'food pyramid', 'fork', 'grain', 'olive', 'punch']
+
+['fig', 'fillet', 'fire', 'fish', 'flax', 'food', 'foodstuffs', 'freezer', 'ketchup']
+
+['grape', 'grapefruit', 'grated', 'greens', 'green tea', 'grub', 'guacamole', 'guava', 'marshmallow', 'pot roast', 'scallops']
+
+['herbs', 'halibut', 'hash', 'honey', 'honeydew', 'hunger', 'hungry', 'icing', 'mango', 'pomelo']
+
+['ham', 'hamburger', 'hazelnut', 'herbs', 'horseradish', 'hummus', 'iceberg lettuce', 'jackfruit', 'jug', 'nourish', 'pita bread', 'water chestnut']
+
+['ice', 'iced tea', 'juice', 'junk food', 'lemonade', 'lox', 'mashed potatoes', 'mayonnaise', 'milkshake', 'oatmeal', 'prime rib', 'split peas', 'stir fry']
+
+['loaf', 'lobster', 'lollipop', 'loquat', 'lunch', 'lunch box', 'lunchmeat', 'lychee', 'macaroon', 'mandarin orange', 'mustard greens', 'sour cream']
+
+['meatloaf', 'melon', 'menu', 'meringue', 'micronutrient', 'milk', 'millet', 'mincemeat', 'mint', 'pattypan squash']
+
+['pecan', 'peapod', 'pepper', 'pepperoni', 'persimmon', 'pickle', 'picnic', 'pie', 'yolk']
+
+['refrigerator', 'relish', 'rhubarb', 'romaine', 'rye', 'sage', 'salmon', 'salt', 'sauce']
+
+['restaurant', 'ribs', 'rice', 'rosemary', 'saffron', 'salad', 'salsa', 'sandwich', 'shish kebab']
+
+['shrimp', 'slaw', 'slice', 'smoked', 'snack', 'soda', 'soda bread', 'sole', 'stove', 'tamale']
+
+['teriyaki', 'thyme', 'toast', 'toaster', 'toffee', 'tofu', 'tomatillo', 'tomato', 'tortilla']
+
+['water', 'watercress', 'watermelon', 'wheat', 'whey', 'whipped cream', 'wok', 'yam']
+
+[]
+
